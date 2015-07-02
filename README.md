@@ -1,4 +1,4 @@
-![GFramework logo]()
+![GFramework logo](https://raw.githubusercontent.com/ghammock/GFramework/master/images/favicon.png)
 
 __GFramework__ - A PHP/JS based Content Management System
 
